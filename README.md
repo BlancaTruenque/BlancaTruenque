@@ -25,7 +25,7 @@
 - [Data Loading and Validation System with Authentication](https://project-final-p4rc.onrender.com)
 <br/>
 
-<h3 align="left">Conectate conmigo:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <br/>
 
 <p align="left">
